@@ -43,10 +43,10 @@ Project for a course at the ULB, which allowed the analysis of open source data 
 ---
 
 ## 📊 GitHub Stats  
+## 📌 Global stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=V1rg1lee&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=V1rg1lee&theme=radical" />
 </p>
 
 ### 📌 Most Used Languages  
