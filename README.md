@@ -18,7 +18,12 @@
 ### 🎥 **Secure streaming**
 End-to-end encrypted video streaming. This is a project for a course at the ULB.
 
-🔗 [GitLab Repository](https://gitlab.com/V1rg1lee/info-y115-computer-project)  
+🔗 [GitLab Repository](https://gitlab.com/V1rg1lee/info-y115-computer-project)
+
+### 🎥 **Rainbow attack**
+Project as part of a ULB course on the attack of alphanumeric space passwords using rainbow tables.
+
+🔗 [GitLab Repository](https://gitlab.com/mdevolde/info-y115-rainbow-attack)
 
 ### 🦀 **Rust Web Framework** (WIP)  
 A secure, low-abstraction web framework inspired by Django, with async support and WebSockets handling.  
