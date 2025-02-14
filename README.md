@@ -20,7 +20,7 @@ End-to-end encrypted video streaming. This is a project for a course at the ULB.
 
 🔗 [GitLab Repository](https://gitlab.com/V1rg1lee/info-y115-computer-project)
 
-### 🎥 **Rainbow attack**
+### 🌈 **Rainbow attack**
 Project as part of a ULB course on the attack of alphanumeric space passwords using rainbow tables.
 
 🔗 [GitLab Repository](https://gitlab.com/mdevolde/info-y115-rainbow-attack)
