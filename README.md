@@ -1,4 +1,4 @@
-# Hi there, I'm **Virgile Devolder** 👋
+ # Hi there, I'm **Virgile Devolder** 👋
 
 🚀 Passionate Software Developer | 🎓 Computer Science graduate | 🔑 Cybersecurity student
 
@@ -13,7 +13,12 @@
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
+
+### 🎥 **Secure streaming**
+End-to-end encrypted video streaming. This is a project for a course at the ULB.
+
+🔗 [GitLab Repository](https://gitlab.com/V1rg1lee/info-y115-computer-project)  
 
 ### 🦀 **Rust Web Framework** (WIP)  
 A secure, low-abstraction web framework inspired by Django, with async support and WebSockets handling.  
