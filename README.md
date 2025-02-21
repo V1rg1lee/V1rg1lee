@@ -25,6 +25,11 @@ Project as part of a ULB course on the attack of alphanumeric space passwords us
 
 🔗 [GitLab Repository](https://gitlab.com/mdevolde/info-y115-rainbow-attack)
 
+### 🎟️ **QR event ticketing**
+Tool for generating tickets for access to an event via secure QR codes to be scanned.
+
+🔗 [GitHub Repository](https://github.com/V1rg1lee/QR-event-ticketing)  
+
 ### 🦀 **Rust Web Framework** (WIP)  
 A secure, low-abstraction web framework inspired by Django, with async support and WebSockets handling.  
 
