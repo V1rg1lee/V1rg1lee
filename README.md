@@ -70,3 +70,6 @@ Project for a course at the ULB, which allowed the analysis of open source data 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1rg1lee&layout=compact&langs_count=8&theme=radical" />
 </p>
 
+### 📌 Activity Graph
+
+[![Virgile's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=V1rg1lee&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
