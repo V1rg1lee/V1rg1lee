@@ -9,7 +9,6 @@
 - 🎓 Recently graduated with a bachelor's degree in Computer Science, studying a master's degree in cybersecurity in Belgium
 - 🦀 Interested in Rust, cybersecurity, web development, and programming in general
 - 🔐 Security-focused developer, aiming for robust and scalable solutions  
-- 📚 Currently working on a **Rust web framework** 
 
 ---
 
@@ -29,11 +28,6 @@ Project as part of a ULB course on the attack of alphanumeric space passwords us
 Tool for generating tickets for access to an event via secure QR codes to be scanned.
 
 🔗 [GitHub Repository](https://github.com/V1rg1lee/QR-event-ticketing)  
-
-### 🦀 **Rust Web Framework** (WIP)  
-A secure, low-abstraction web framework inspired by Django, with async support and WebSockets handling.  
-
-🔗 [GitHub Repository](https://github.com/V1rg1lee/cargoal)  
 
 ### 🔍 **CTF writeups**  
 I have recently put the solutions of the CTFs in which I participate in this repository
