@@ -51,19 +51,6 @@ Project for a course at the ULB, which allowed the analysis of open source data 
 
 ---
 
-## 📊 GitHub Stats  
-### 📌 Global stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=V1rg1lee&show_icons=true&theme=radical" />
-</p>
-
-### 📌 Most Used Languages  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1rg1lee&layout=compact&langs_count=8&theme=radical" />
-</p>
-
-### 📌 Activity Graph
+## 📊 GitHub Stats
 
 [![Virgile's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=V1rg1lee&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
